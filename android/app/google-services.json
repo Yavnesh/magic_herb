@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708205206744",
+    "project_id": "magicherb-d1099",
+    "storage_bucket": "magicherb-d1099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708205206744:android:33114181e125a579f68bad",
+        "android_client_info": {
+          "package_name": "com.example.magic_herb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708205206744-9qgn8bu043m5cp8h123cjr005c3h39fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeSDVxSZg2EwlZQBMSVnbocD9uuCAeuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708205206744-9qgn8bu043m5cp8h123cjr005c3h39fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
